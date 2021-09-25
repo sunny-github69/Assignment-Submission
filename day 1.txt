@@ -1,0 +1,25 @@
+Answer:-   O(log(n))
+
+
+
+a = 1;       
+b = 1;
+while(b < n)      
+{
+  a += 1;
+  b += a;
+  cout<<"Hi";
+}
+
+24
+
+a=2    3     4      5      6    7     8     9    10    11
+b=3    6     10     15     21   28    36    45    55   66
+hi     hi     hi     hi    hi    hi    hi   hi    hi   hi
+
+10=64
+
+O(log(n)) log n eill bi answer
+
+
+
